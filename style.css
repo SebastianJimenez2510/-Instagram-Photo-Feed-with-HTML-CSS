@@ -15,14 +15,34 @@
 }
 
 .text-start{
-    padding-right: 200px;
+   text-align: start; 
 }
 
 .p-r{
-    padding-right: 295px !important;
     height: 8px;
 }
 
 .h-5{
     margin-bottom: auto;
+}
+
+.card{
+    margin: 5px auto;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.py-10{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.initial-text{
+    display: flex;
+}
+
+.c-g{
+    color: rgba(213, 194, 194, 0.749);
 }
